@@ -1,5 +1,7 @@
 # Buscador-de-Cep
 
+um projeto simples feito com React e Api com intuito a buscar cep de moradias.
+
 ## Link do Surge
 
 http://safe-scale.surge.sh/
